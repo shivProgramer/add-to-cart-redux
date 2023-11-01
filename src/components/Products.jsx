@@ -40,7 +40,7 @@ const Products = () => {
               </MDBCard>
             </MDBCol>
             ))
-            }
+            } 
         </MDBRow>
       </MDBContainer>
     </div>
